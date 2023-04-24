@@ -6,9 +6,18 @@ Frontend Developer
 
 I started learning frontend development out of an interest in web technologies and a desire to create beautiful and interactive web pages. First I started learning the basics of HTML and CSS, then JavaScript and framework libraries. I continue to deepen my knowledge by learning new technologies in Frontend development.
 
-*   🌍  I'm based in Kyrgyzstan
-*   ✉️  You can contact me at [sulajmanasimzanov@gmail.com](mailto:sulajmanasimzanov@gmail.com)
-*   🧠  I'm learning TypeScript### Skills 
+* 🌍  I'm based in Kyrgyzstan
+* ✉️  You can contact me at [sulajmanasimzanov@gmail.com](mailto:sulajmanasimzanov@gmail.com)
+* 🧠  I'm learning TypeScript
+
+<a href="https://www.twitter.com/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SulaimanAshimzhanov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/SulaimanAshimzhanov?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -21,14 +30,12 @@ I started learning frontend development out of an interest in web technologies a
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                                ### Socials
-              
-              
-            <p align="left">
-                      
-                  <a href="https://www.github.com/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                      
-                  <a href="http://www.instagram.com/ash1mzhanovv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                      
-                  <a href="https://www.linkedin.com/in/Sulaiman Ashimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/SulaimanAshimzhanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulaimanAshimzhanov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/SulaimanAshimzhanov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<a href="https://github.com/SulaimanAshimzhanov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulaimanAshimzhanov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
